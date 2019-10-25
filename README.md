@@ -1,4 +1,4 @@
-# ESP32 bare brakeout board
+# ESP8266 bare brakeout board
 This is the brakeout board created in KiCad for the MKS Nano 3D printing board. 
 The brakeout board intended to be DIY etched and produced at home
 
